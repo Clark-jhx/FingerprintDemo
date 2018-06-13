@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FingerprintDemo</string>
+    <string name="no_fingerprint">没指纹硬件</string>
+    <string name="no_keyguard_secure">必须设置锁屏保护，去设置啊</string>
+    <string name="no_fingerprint_enroll">还没有注册指纹</string>
+    <string name="authenticate">认证</string>
+    <string name="fingerprint_fail">与注册的指纹不符</string>
+    <string name="fingerprint_success">认证成功</string>
+    <string name="fingerprint_status">显示状态</string>
+    <string name="message">触摸指纹，进行指纹认证</string>
+    <string name="cancel">cancel</string>
+</resources>
